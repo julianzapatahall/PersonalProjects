@@ -5,7 +5,7 @@ This
 
 ### Contact Me
 
-| Contact Method  | Second Header |
+| Contact Method  |             |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| School Email | mailto:zapatahj@union.edu  |
+| Linkedin  | https://www.linkedin.com/in/julian-zapata-hall-2b335b181/ |
